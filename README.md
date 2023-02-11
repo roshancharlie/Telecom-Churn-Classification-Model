@@ -26,3 +26,16 @@ Feature selection was performed based on the behavioral analysis and the colline
 The dataset was divided into three parts: training data, test data, and validation data. Different classification algorithms, including logistic regression, random forest, decision tree, and gradient boost, were applied to the validation data. The accuracy and classification report were evaluated for each model, and the best performing model was selected for further analysis. The results of the selected model were then compared to the actual values of the churn, and a confusion matrix was plotted to visualize the predictions. This process allowed me to compare the performance of different algorithms and determine which one was the best fit for the data.
 
 # Decision Tree is the best model with accuracy: 0.9999047928848549
+
+
+
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
+<p align="center">
+    <a href="mailto:roshanguptark432@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="https://www.linkedin.com/in/roshan-sinha/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/roshan_the_constant/?hl=en" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://www.hackerrank.com/roshanguptark432" target="_blank"><img alt="HackerRank" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg"></a>
+    <a href="https://github.com/roshancharlie" target="_blank"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="25px"></a>
+</p>  
