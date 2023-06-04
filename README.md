@@ -1,6 +1,4 @@
 # Telecom Churn Classification Model
-Notebook is below:
-[Model Link](https://colab.research.google.com/drive/1ROxFr5BS_C4kdRX_w2Nt6Gy9UI237tqY?usp=sharing)
 ## Introduction
 The Aim of this project is to utilize customer history and personal details to build a classification model that can accurately predict which customers are likely to leave the company.
 
